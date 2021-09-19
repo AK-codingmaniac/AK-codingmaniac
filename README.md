@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AK-codingmaniac
 - 👀 I’m interested in learning React,Javascipt and CSS
-- 🌱 I’m currently learning Vanilla JS
+- 🌱 I’m currently learning React Framework
 - 💞️ I’m looking to collaborate on making new web applications
 - 📫 How to reach me:- 
       Instagram:--https://www.instagram.com/anshaj.khare/
