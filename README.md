@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React Framework
 - 💞️ I’m looking to collaborate on making new web applications
 - 📫 How to reach me:- 
-      Instagram:--https://www.instagram.com/anshaj.khare/
+      LinkedIn:--https://www.linkedin.com/in/anshaj-khare-0a0701202/
       Email:--anshaj13.ugcs20@iiitranchi.ac.in
 <!---
 AK-codingmaniac/AK-codingmaniac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
