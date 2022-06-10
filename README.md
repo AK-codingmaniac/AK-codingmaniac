@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshaj Khare</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-codingmaniac&label=Profile%20views&color=0e75b6&style=flat" alt="ak-codingmaniac" /> </p>
 
 - 🔭 I’m currently working on [crypto-tracker](https://github.com/AK-codingmaniac/crypto-tracker)
 
