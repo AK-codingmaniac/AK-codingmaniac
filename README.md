@@ -16,7 +16,7 @@
 <a href="https://codeforces.com/profile/akcoding_mania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akcoding_mania" height="50" width="50" /></a>
 <a href="https://www.leetcode.com/akcoding_mania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akcoding_mania" height="50" width="50" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anshajkhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anshajkhare" height="50" width="50" /></a>
-<a href="https://instagram.com/anshaj_khare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshaj_khare" height="50" width="50" /></a>
+<a href="https://instagram.com/anshaj.khare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshaj_khare" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Programming Languages and Tools:</h3>
