@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-codingmaniac&label=Profile%20views&color=0e75b6&style=flat" alt="ak-codingmaniac" /> </p>
 
-- 🔭 I’m currently working on **making MERN apps with user authentication**
+- 🔭 I’m currently working on **Artificial Intelligence Projects**
 
-- 🌱 I’m currently learning **TypeScript and Android Development**
+- 🌱 I’m currently learning **Python and TypeScript**
 
 - 💬 Ask me about **Javascript,React and Next.JS**
 
