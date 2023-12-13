@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my DSA skills<br>👯 I’m looking to collaborate on MERN Stack-based Web Development Projects<br>🌱 I’m currently learning TypeScript and getting started with Backend Development<br>🤔 I’m looking forward to learning Artificial Intelligence<br>💬 Ask me anything about anime and cricket<br>
+🔭 I’m currently working on improving my DSA skills<br>👯 I’m looking to collaborate on MERN Stack-based Web Development Projects<br>🌱 I’m currently learning TypeScript and getting started with Backend Development<br>🤔 I’m looking forward to learning Artificial Intelligence and Machine Learning<br>💬 Ask me anything about anime and cricket<br>
 
 
 ## 🌐 Socials:
